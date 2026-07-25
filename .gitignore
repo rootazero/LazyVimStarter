@@ -6,3 +6,6 @@ debug
 foo.*
 *.log
 data
+
+# macOS 目录元数据
+.DS_Store
